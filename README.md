@@ -70,3 +70,5 @@ Identify the real or potential damage of the incident.
 
 The attack was discovered before the problem got too bad.
 If it the DDoS hit as planned, the company faced the potential of angry customers and possibly lost customers, as well as a public relations problem. This could cause long-term losses of business and reputation.
+
+A threat agent—or threat actor—is anything that can possibly damage or disrupt the system’s ability to perform as it needs to. This isn’t limited to malicious actors like hackers.
