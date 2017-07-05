@@ -1,31 +1,20 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Gain the essential knowledge and expertise in network security and forensics needed for cybersecurity in enterprise environments.
 
-## Code Example
+In this Cybersecurity MicroMasters Program, you will learn:
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Fundamentals of networks;
+Systems administration;
+How to protect computer networks and other systems by mitigating vulnerabilities and monitoring intrusions;
+How to perform digital forensic analysis of cybercrime by gathering information on the nature and extent of the attack for presentation in a court of law, as well as assessing the extent of the damage to an organization;
+Techniques of risk analysis;
+Risk assessment and vulnerability assessment.
+The MicroMasters Program capstone experience for verified learners entails practical demonstration of these skills.
 
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+© 2012–2017 edX Inc. All rights reserved except where noted. EdX, Open edX and the edX and Open edX logos are registered trademarks or trademarks of edX Inc. | 粤ICP备17044299号-2
+
+https://www.edx.org/micromasters/ritx-cybersecurity 
