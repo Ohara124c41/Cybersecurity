@@ -12,7 +12,7 @@ Techniques of risk analysis;
 Risk assessment and vulnerability assessment.
 The MicroMasters Program capstone experience for verified learners entails practical demonstration of these skills.
 
-![alt text](/https://github.com/Ohara124c41/Cybersecurity/blob/master/Supporting_Doc/EnCase-Re.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Cybersecurity/blob/master/Supporting_Doc/EnCase-Re.gif)
 
 
 
